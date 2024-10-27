@@ -8,7 +8,7 @@
         },
         {
             "name": "USSE-VIPOR",
-            "url": "us-west01.miningrigrentals.com:50235",
+            "url": "stratum+tcp://us-west01.miningrigrentals.com:50235",
             "timeout": 180,
             "disabled": 0
         }],
